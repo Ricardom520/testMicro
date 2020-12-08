@@ -419,7 +419,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _nod
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\nvar config = {\n  REACT_MICRO_APP: \"http://localhost:10100\",\n  VUE_MICRO_APP: \"http://localhost:10200\",\n  ANGULAR_MICRO_APP: \"http://localhost:10300\",\n  STATIC_MICRO_APP: \"http://localhost:10400\"\n}; // 导出当前环境的配置，默认为 dev 环境\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (config);\n\n//# sourceURL=webpack:///./src/config/index.ts?");
+eval("__webpack_require__.r(__webpack_exports__);\nvar config = {\n  REACT_MICRO_APP: \"http://192.168.197.150:10100\",\n  VUE_MICRO_APP: \"http://192.168.197.150:10200\",\n  ANGULAR_MICRO_APP: \"http://192.168.197.150:10300\",\n  STATIC_MICRO_APP: \"http://192.168.197.150:10400\"\n}; // 导出当前环境的配置，默认为 dev 环境\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (config);\n\n//# sourceURL=webpack:///./src/config/index.ts?");
 
 /***/ }),
 
